@@ -4,7 +4,7 @@
 
 I'm a Front-End Software Engineer passionate about building clean, maintainable, and scalable user interfaces. With over 6 years of experience, I’ve developed projects for marketing teams, internal management systems, and scalable SaaS platforms, always focusing on performance, accessibility, and clean code.
 
-- 💼 Currently working as a Software Engineer at Faster
+- 💼 Currently working as a Full Stack Engineer at Zartis
 - 🌍 Based in Brazil, open to remote opportunities worldwide
 - 🗣️ English Level: B2 (Upper-Intermediate)
 
